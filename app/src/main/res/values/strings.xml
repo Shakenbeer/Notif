@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notif</string>
+    <string name="enable_listener_explanation">Please enable notification listener for this application.</string>
+    <string name="enable">Enable</string>
+    <string name="notif_listener">NotificationListener</string>
+    <string name="show_only_active">Show only active notifications</string>
+    <string name="no_notifications">No notifications</string>
+</resources>
